@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mandalorian49
-- 👀 I’m interested in coding specifically in Bitcoin
-- 🌱 I’m currently planning on pursuing in the field of Finance/Econ & Compsci
-- 💞️ I’m looking to collaborate on any app or Bitcoin program
-- 📫 How to reach me through Github (HERE!)
+- 👀 I’m interested in coding
+- 🌱 I’m currently planning on pursuing in the field of Finance/Econ & Law
+- 💞️ I’m looking to collaborate on any app
+- 📫 How to reach me through Github
 - ✨ I'm a huge Star Wars fan
 
 Projects to Come
